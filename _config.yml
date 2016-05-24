@@ -9,6 +9,7 @@
 title: Making It - From Self-Taught to Aspiring Front-End Developer
 email: jruzsilla@gmail.com
 description: A blog about my journey to becoming a front-end developer
+baseurl: '/makingIt'
 url: "http://makingit.me" # the base hostname & protocol for your site
 twitter_username: jr_code03
 github_username:  jruz10
