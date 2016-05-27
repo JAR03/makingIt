@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "About Jekyll"
+date:   2016-05-26 19:39:14 -0400
+categories: update
+---
+Right now I'm just trying to get a feel for Jekyll. I've never blogged before so this is a new experience but I'm enjoying it so far. 
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
