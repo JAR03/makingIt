@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Text-Adventure Game to Design Patterns"
-date:   2016-07-17 19:39:14 -0400
+date:   2016-07-17
 categories: update
 ---
 Having and working on projects seems to be the gateway for aspiring web developers to gain any traction or recognition in the field. But coming up with a project idea isn't that cut-and-dry. When you're starting off learning the trifecta of web development (CSS, HTML, and javaScript), the usual assignments include some form of to-do list or maybe using an API to create a weather app. Things of these sorts. By all means I'm not saying these aren't practical and education and fun, but making apps of these sorts, in my opinion, won't really separate myself from the masses.
